@@ -1,4 +1,4 @@
-# CoKaKeys Open Trades
+# CoKaKeys Trades
 
 Real-time options signal scanner covering 6 markets with TradingView integration.
 
